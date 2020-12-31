@@ -1,4 +1,4 @@
-# Thar Trading Terminal
+# Thar Tradingz Terminal
 
 ```sh
 npm install 
