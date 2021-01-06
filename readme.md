@@ -14,7 +14,7 @@ npm run build
 ## Let's code and build something beautiful together
 *We welcome everyone. 🤗*
 
-<img src="src/asset/welcome.jpg" width="500"/>
+<img src="welcome.jpg" width="500"/>
 
 ## Development Ethos
 - *It's OK to break stuff on development. Take the ownership and send the fix.*
